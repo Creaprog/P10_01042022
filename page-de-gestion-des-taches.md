@@ -4,7 +4,9 @@
 
 # Fonctionnalité
 
-Scenario : L'étudiant/tuteur, clique sur la page tableau de bord.
+- Permettre au tuteur de créer une tâche et de l'affecter à un étudiant.
+- Permettre au tuteur de visualiser l'ensemble des tâches de ces étudiants.
 
-**Etant donné** que l'acteur est déjà authentifier par le système d'authentification, **lorsque** l'acteur accéde à la page tableau de bord,
-**alors** il est capable de visualiser les événements prochains, le calenderier et le compteur de message non lus.
+---
+
+![Schema](user_case_gestion_des_taches.png)
